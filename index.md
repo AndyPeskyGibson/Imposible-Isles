@@ -1,8 +1,5 @@
-<head>
-  <meta name="google-site-verification" content="c-TvjTvK5CMJPrxR4l57sYyvrNHBid9cVvdRtYP2sgI" />
-  </head>
-    
-## Welcome to GitHub Pages
+   
+## Welcome to Impossible Isles!
 
 You can use the [editor on GitHub](https://github.com/AndyPeskyGibson/ImposibleIsles.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
