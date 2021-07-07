@@ -1,5 +1,5 @@
 # Welcome to Impossible Isles 
-**No personal data is ever read, only your score will be sent  to the leaderboards.
+**No personal data is ever collected, only your score will be sent  to the leaderboards.
 
 A daily map-like puzzle for everyone. Just place the tiles according to simple rules to make a map and score.
 
