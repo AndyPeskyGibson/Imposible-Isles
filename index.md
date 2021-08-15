@@ -8,7 +8,8 @@ And certain tiles hold secret bonus scores if you can work out how to place them
 
 Support this game at https://ko-fi.com/impossibleisles or via merch https://www.redbubble.com/people/ImpossibleIsles/shop
 
-Privacy Policy
+# Privacy Policy
+
 Andy Gibson built the Impossible Isles app as a Free app. This SERVICE is provided by Andy Gibson at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
