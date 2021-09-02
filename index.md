@@ -6,7 +6,8 @@ But every day the Imp resets the world - a new pack of tiles, dealt in a new ord
 
 And certain tiles hold secret bonus scores if you can work out how to place them.
 
-# Support this game at https://ko-fi.com/impossibleisles or via merch https://www.redbubble.com/people/ImpossibleIsles/shop
+Support this game at https://ko-fi.com/impossibleisles 
+Or via merch https://www.redbubble.com/people/ImpossibleIsles/shop
 
 # Privacy Policy
 
